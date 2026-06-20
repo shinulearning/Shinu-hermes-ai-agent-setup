@@ -1,5 +1,7 @@
 # Shinu- Hermes AI Agent Setup (Shinu AI Labs)
+🚀 Personal AI Agent Ecosystem powered by Hermes, DeepSeek, Discord and WSL2.
 
+A portfolio project demonstrating AI infrastructure engineering, agent orchestration, Discord integration, and persistent AI workspace management.
 A practical implementation of a personal AI Agent ecosystem using:
 
 * Hermes Agent
